@@ -10,3 +10,7 @@ regex = "0.2"
 [[bin]]
 name = "grep"
 path = "src/grep.rs"
+
+[[bin]]
+name = "find"
+path = "src/find.rs"
